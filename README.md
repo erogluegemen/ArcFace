@@ -1,2 +1,2 @@
 # ArcFace
-Face Recognition with ArcFace.
+Face Recognition with ArcFace
